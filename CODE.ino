@@ -97,19 +97,19 @@ void serialEvent()
         digitalWrite(GM_N, LOW);
         break;
       case 'A' : flag = true;                 //seed through on
-        //        digitalWrite(GM_P, LOW);
-        //        digitalWrite(GM_N, LOW);
-        //        digitalWrite(PM_P, LOW);
-        //        delay(1000);
-        //        digitalWrite(M_P1, LOW);
-        //        digitalWrite(M_N1, LOW);
-        //        digitalWrite(M_P2, LOW);
-        //        digitalWrite(M_N2, LOW);
-        //        delay(1000);
-        //        digitalWrite(M_P1, HIGH);
-        //        digitalWrite(M_N1, LOW);
-        //        digitalWrite(M_P2, HIGH);
-        //        digitalWrite(M_N2, LOW);
+               digitalWrite(GM_P, LOW);
+               digitalWrite(GM_N, LOW);
+               digitalWrite(PM_P, LOW);
+               delay(1000);
+               digitalWrite(M_P1, LOW);
+               digitalWrite(M_N1, LOW);
+               digitalWrite(M_P2, LOW);
+               digitalWrite(M_N2, LOW);
+               delay(1000);
+               digitalWrite(M_P1, HIGH);
+               digitalWrite(M_N1, LOW);
+               digitalWrite(M_P2, HIGH);
+               digitalWrite(M_N2, LOW);
         break;
       case 'Y' : flag = false;                 //seed through off
         digitalWrite(M_P1, HIGH);
