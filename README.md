@@ -28,7 +28,7 @@ This configuration makes it possible for users to effectively command the AGRIBO
    N -> Off Grass Cutting                                   
    A -> ON  Seed Sowing                                                                   
    Y -> OFF Seed Sowing                                                                           
-   P -> ON Pesticide Spray
+   P -> ON Pesticide Spray                                                                      
    O -> OFF Pesticide Spray
    
 
