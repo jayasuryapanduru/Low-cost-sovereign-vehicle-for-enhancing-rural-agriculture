@@ -16,7 +16,22 @@ This configuration makes it possible for users to effectively command the AGRIBO
    Powered by an 12V solar panel that charges a 12V battery, the Agri Bot operates sustainably and efficiently. 
    It utilizes DC motors for seed sowing and grass cutting, with a motor driver managing directional movement. 
 ## Block Diagram
-     ![image](https://github.com/user-attachments/assets/db65e3b6-2d7f-4936-af97-bfdb17b4eb1c)
+   The block diagram of the project is attached go through it
+
+ ## Commands to Operate the Vehicle
+   S -> STOP                                                                                           
+   F -> FORWARD                                                                               
+   L -> LEFT                                                                                     
+   B -> RIGHT                                                                                              
+   R -> REVERSE                                                                                              
+   G -> ON Grass Cutting                                                                                      
+   N -> Off Grass Cutting                                   
+   A -> ON  Seed Sowing                                                                   
+   Y -> OFF Seed Sowing                                                                           
+   P -> ON Pesticide Spray
+   O -> OFF Pesticide Spray
+   
+
 
 
 
