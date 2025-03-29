@@ -15,7 +15,9 @@ This configuration makes it possible for users to effectively command the AGRIBO
    The system is driven by an Arduino Uno R3 controller, which orchestrates various functions including seed sowing, watering, ploughing, and grass cutting. 
    Powered by an 12V solar panel that charges a 12V battery, the Agri Bot operates sustainably and efficiently. 
    It utilizes DC motors for seed sowing and grass cutting, with a motor driver managing directional movement. 
-   
+## Block Diagram
+     ![image](https://github.com/user-attachments/assets/db65e3b6-2d7f-4936-af97-bfdb17b4eb1c)
+
 
 
 
